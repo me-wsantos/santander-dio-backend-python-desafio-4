@@ -19,7 +19,7 @@
   ```
 2. Navigate to the project directory:
   ```bash
-  cd santander-dio-backend-python-desafio-1
+  cd santander-dio-backend-python-desafio-4
   ```
 ## Usage
 Docker-composer run:
