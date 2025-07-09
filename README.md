@@ -15,7 +15,7 @@
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/me-wsantos/santander-dio-backend-python-desafio-1.git
+  git clone https://github.com/me-wsantos/santander-dio-backend-python-desafio-4.git
   ```
 2. Navigate to the project directory:
   ```bash
